@@ -1,0 +1,26 @@
+#MainePhoto{
+    width: 600px;
+}
+body {
+    color: darkgreen;
+}
+body {
+    font: 'Bevan', serif;
+}
+#bandshell{
+    width: 50px;
+}
+body {
+    background-image: url("Prospect Park.jpg");
+    background-color: #4287f5;
+}
+h1 {
+    margin-top: 10px;
+    font-family: Georgia;
+}
+#prospectpark{
+    width: 70px;
+}
+#CB{
+    width: 50px;
+}
